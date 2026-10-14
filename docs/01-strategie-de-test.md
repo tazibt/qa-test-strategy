@@ -33,8 +33,8 @@ Chaque fonctionnalité est notée sur deux axes, de 1 à 3 :
 
 Risque élevé = score de 6 ou 9.
 
-Cette grille sert ensuite à tout le reste : choix des smoke tests, priorisation de la TNR, ordre d'exécution
-de la campagne, et argumentaire lors du Go / No Go.
+Cette grille sert ensuite à tout le reste : chiffrage des tests ([voir 10](10-suivi-des-campagnes.md)),
+choix des smoke tests, priorisation de la TNR, ordre d'exécution de la campagne, et argumentaire lors du Go / No Go.
 
 ## 1.3 Niveaux et types de test
 
@@ -73,5 +73,5 @@ Critères de sortie (validés avec le PO au début du projet, pas à la fin) :
 
 ## 1.6 Ce que je fais valider
 
-Je fais valider trois points par le projet : le périmètre (et le hors périmètre), la grille de risques,
-et les critères de sortie. Les seuils de la grille Go / No Go ([voir 8](08-kpi-go-no-go.md)) en découlent.
+Je fais valider quatre points par le projet : le périmètre (et le hors périmètre), la grille de risques,
+le chiffrage des tests et les critères de sortie. Les seuils de la grille Go / No Go ([voir 8](08-kpi-go-no-go.md)) en découlent.

@@ -18,6 +18,8 @@ que j'applique en mission, sur des contextes e-commerce, bancaires, assurance ou
 | 6 | [Données de test](docs/06-donnees-de-test.md) | Jeux de données maîtrisés, sans données de production |
 | 7 | [Gestion des défauts](docs/07-defauts.md) | Rédiger, qualifier, prioriser, confirmer |
 | 8 | [KPI et Go / No Go](docs/08-kpi-go-no-go.md) | Les indicateurs suivis et la grille de décision de mise en production |
+| 9 | [Tests transverses](docs/09-tests-transverses.md) | Suivre une commande de bout en bout à travers six applications, avec une vérification par système |
+| 10 | [Estimation et suivi](docs/10-suivi-des-campagnes.md) | Estimer la charge, organiser l'équipe, point d'avancement hebdomadaire, bilan |
 
 ## Mise en pratique
 

@@ -86,6 +86,6 @@ Sans atelier, chacune de ces questions aurait été tranchée par le développeu
 
 ## 2.5 Mise en pratique
 
-Le dépôt [mock-payment-sap](https://github.com/tazibt/mock-payment-sap) applique cette démarche :
+Le dépôt [mock-payment-api](https://github.com/tazibt/mock-payment-api) applique cette démarche :
 les règles d'acceptation du mock sont écrites en Gherkin (`paiement.feature`, `robustesse.feature`)
 et automatisées avec Cucumber et RestAssured.

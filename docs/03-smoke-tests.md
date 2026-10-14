@@ -62,4 +62,4 @@ peut entrer, un parcours devenu secondaire peut sortir. Le nombre de tests ne do
 
 ## 3.6 Mise en pratique
 
-Voir le pipeline de [mock-payment-sap](https://github.com/tazibt/mock-payment-sap) : job `smoke`, puis tests d'acceptation.
+Voir le pipeline de [mock-payment-api](https://github.com/tazibt/mock-payment-api) : job `smoke`, puis tests d'acceptation.

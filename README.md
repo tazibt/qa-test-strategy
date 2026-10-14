@@ -25,7 +25,7 @@ Plusieurs points sont appliqués dans mes autres dépôts :
 
 | Dépôt | Ce qu'il illustre |
 |---|---|
-| [mock-payment-sap](https://github.com/tazibt/mock-payment-sap) | ATDD (scénarios Gherkin), smoke tests tagués `@smoke` qui conditionnent la campagne en CI, isolation d'un prestataire externe |
+| [mock-payment-api](https://github.com/tazibt/mock-payment-api) | ATDD (scénarios Gherkin), smoke tests tagués `@smoke` qui conditionnent la campagne en CI, isolation d'un prestataire externe |
 | [Generateur-Data](https://github.com/tazibt/Generateur-Data) | Données de test fictives et reproductibles, sans aucune donnée personnelle réelle |
 | [gatling-performance-tests](https://github.com/tazibt/gatling-performance-tests) | Modèles de charge ouvert / fermé, loi de Little, assertions de SLA en CI |
 
